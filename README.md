@@ -1,8 +1,10 @@
-# React + Vite
+# e-Persediaan Biak
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+![SS Pages](./src/assets/pages.png)
 
-Currently, two official plugins are available:
+<h5>Landing Pages</h5>
+
+<span>Berisi halaman landing page yang akan di gunakan sebagai portal ke 2 aplikasi yang akan di gunakan</span>
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
