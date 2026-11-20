@@ -1,3 +1,5 @@
+import persediaanImg from './assets/persediaan.png'
+
 const FALLBACK_LOGO =
   'https://lh3.googleusercontent.com/aida/ALJJyrBNpcNwCBAxRbkEDPEYRvqW1s6nuvdcUVpbdjTgekA76oqNqABHcH4ENPuQoofbelkxAoZo9GHtnsFheXhCSCdtfidMIsBMBjxI2EsB2osMsjiGueXb40EAW9t3TsGIQrAczMISwTM3-ZH74WOLEg8AWGd73H1t_gs0O0nMdK_TkE07v7hZDd6ww6qHplFXI_lrEyDKPzxZacf0mInlFW0DVwgg-a4IA-trynAXuSJs'
 
@@ -7,7 +9,7 @@ const solutions = [
     kicker: 'Manajemen Persediaan',
     title: 'Persediaan Biak',
     icon: 'pallet',
-    img: './src/assets/persediaan.png',
+    img: persediaanImg,
     alt: 'Warehouse Pulse & Fulfillment Dashboard Preview',
     cta: 'Akses Persediaan Biak',
     href: 'https://persediaan.klikencana.co.id/',
